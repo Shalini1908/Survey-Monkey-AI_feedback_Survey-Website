@@ -1,0 +1,35 @@
+
+
+#container{
+
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(9,310px);
+   height: 900px;
+    width: 100%;
+    row-gap: 30px;
+    column-gap: 10px;
+}
+
+/* #container div{
+
+   
+} */
+
+#container img{
+
+    width:100%;
+}
+
+#para {
+   
+   
+    text-align: center;
+}
+
+#para p{
+
+    color:white;
+    margin-top: -190px;
+    font-size: 20px;
+}
