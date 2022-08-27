@@ -1,0 +1,367 @@
+body {
+
+    background-color: #f7f8fa;
+}
+
+h1 {
+    margin-left: 45px;
+    font-size: 32px;
+    margin-top: 30px;
+    font-weight: 1;
+    color: #333e48;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#para_1 {
+    margin-left: 85px;
+    margin-top: -26px;
+    font-size: 13px;
+    color: #353f43;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#para_2 {
+
+    margin-left: 85px;
+    margin-top: -28px;
+    font-size: 13px;
+    color: #353f43;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#para {
+    margin-left: 220px;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #353f43;
+}
+
+#logo {
+
+
+    margin-left: 400px;
+
+}
+
+#logo img {
+
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+}
+
+
+form {
+
+    margin: auto;
+    width: 36%;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    padding-top: 20px;
+}
+
+
+#links ul {
+
+    display: flex;
+}
+
+#links ul li {
+
+    list-style: none;
+}
+
+label {
+
+    margin-left: 50px;
+    color: #353f43;
+    margin-top: 25px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+input {
+
+    margin-left: 40px;
+
+}
+
+#email {
+
+    width: 380px;
+    height: 45px;
+    margin-left: 45px;
+    margin-top: 10px;
+    color: #c3c7c8;
+
+}
+
+#tick {
+
+    width: 25px;
+    height: 25px;
+    margin-top: 25px;
+    margin-left: 45px;
+
+}
+
+/* button {
+
+    width: 400px;
+    height: 50px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    margin-top: 22px;
+    background-color: #99e5c5;
+    border: none;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+} */
+
+
+#next{
+
+    width: 400px;
+    height: 50px;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    margin-top: 22px;
+    background-color: #99e5c5;
+    border: none;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+
+}
+
+
+ #ss{
+
+    width: 400px;
+    height: 50px;
+    margin-left: -85px;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    background-color: whitesmoke;
+    border:1px solid #c3c7c8;
+    font-size: 15px;
+    color:#353f43; ;
+
+} 
+
+/* #ss img{
+
+    width: 40px;
+    height: 35px;
+    margin-left: -60px;
+}
+
+#ss p{
+    margin-top: -28px;
+    margin-left: -9px;
+}  */
+
+#for {
+    list-style: none;
+
+}
+
+#icons {
+
+    display: flex;
+    /* padding: 0px 40px; */
+    margin-top: 150px;
+    margin-left: -400px;
+   
+    height: 70px;
+    
+
+}
+
+
+
+#icons div {
+
+    border: 1px solid #c3c7c8;
+    width: 46px;
+    height: 42px;
+    padding: 4px;
+    margin: 12px;
+  
+    color: #353f43;
+}
+
+#gotext {
+
+    margin-top: 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#linktext {
+
+    margin-top: 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#aptext {
+
+    margin-top: 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mi {
+
+    width: 50%;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+#fb {
+
+    width: 80%;
+    margin-left: 6px;
+    margin-top: 3px;
+}
+
+
+#li {
+
+    width: 52%;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+
+#go {
+
+    width: 55%;
+    margin-left: 12px;
+    margin-top: 8px;
+}
+
+
+#ap {
+
+    width: 55%;
+    margin-left: 12px;
+    margin-top: 7px;
+}
+
+
+
+
+.alone {
+
+ margin: auto;
+   
+   
+   
+   
+}
+
+#half > div >  p {
+
+    color: #353f43;
+    font-size: 12px;
+    margin-bottom: 80px;
+    margin-left: 45px;
+    margin-top: 40px;
+    width: 85px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p {
+
+    margin-top: 40px;
+    margin-left: 4px;
+    font-size: 13px;
+}
+
+#microtext {
+
+    margin-top: 17px;
+    margin-left: 0px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#fbtext {
+
+    margin-left: -2px;
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bl {
+
+    color: #007faa;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3px;
+
+
+}
+
+#be{
+    font-size: 14px;
+    margin-left: 47px;
+    margin-top: 20px;
+    color: #007faa;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* #links {
+
+  
+    width: 800px;
+    margin-left: -390px;
+    margin-top: 255px;
+    display: flex;
+
+  
+   
+}
+
+
+
+#links  a {
+  
+    color: #007faa;
+    text-decoration: none;
+  /* margin: 10px; */
+    /* font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif; }*/
+
+
+
+#green{
+
+    color: 
+    #00bf6f;
+}
+
+#half{
+
+    display: flex;
+    margin-left: 427px;
+   
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    width: 36%;
+    height: 250px;
+}
