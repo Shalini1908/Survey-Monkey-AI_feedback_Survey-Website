@@ -423,6 +423,7 @@ p{
 
 margin-top:-6px;
 
+
 }
 
 #par p{
@@ -574,7 +575,7 @@ iframe{
 
 #marketing div {
 
-  border: 1px solid #c3c7c8;
+  /* border: 1px solid #c3c7c8; */
   padding:0px 60px;
 
   
@@ -622,7 +623,8 @@ h4{
 .p3 p{
 
 text-align: justify;
-font-size: 18px;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 #acre{
@@ -649,6 +651,8 @@ margin-left: 1000px;
 
     text-align: left;
     margin-left: 60px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #footer button{
@@ -795,8 +799,8 @@ margin-left: 1000px;
     grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(4,300px);
     width: 80%;
-    margin: auto;
-    gap:20px;
+    margin-left: 200px;
+    gap:30px;
 }
 
 /* #explore div{
@@ -807,9 +811,9 @@ margin-left: 1000px;
 #shalu {
 
    width: 488px;
-
-
-   margin-left: 0px;
+   
+  margin-top: 20px;
+ 
    
 }
 
@@ -817,8 +821,8 @@ margin-left: 1000px;
 
     font-size: 17px;
     line-height: 28px;
-    text-align: center;
-  
+   
+  margin-left: -10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -826,16 +830,16 @@ margin-left: 1000px;
 
 
     width: 335px;
+    margin-top: 20px;
 
-
-    margin-left: 0px;
+    
 }
 
 #shalu7 p{
 
     font-size: 17px;
     line-height: 20px;
-    text-align: center;
+   
   
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -843,35 +847,36 @@ margin-left: 1000px;
 #shalu8 {
 
 
-    width: 295px;
+    width: 286px;
+    margin-top: 20px;
 
-
-    margin-left: 0px;
+    
+  
 }
 
 #shalu8 p{
 
     font-size: 17px;
     line-height: 20px;
-    text-align: center;
-  
+    
+    margin-left: -10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 #shalu2 {
 
 
-    width: 440px;
+    width: 436px;
+    margin-top: 20px;
+  
 
-
-    margin-left: 0px;
 }
 
 #shalu2 p{
 
     font-size: 17px;
     line-height: 28px;
-    text-align: center;
+   
   
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -880,18 +885,20 @@ margin-left: 1000px;
 #shalu3 {
 
 
-    width: 440px;
+    width: 426px;
+    margin-top: 20px;
+    text-align: justify;
 
-
-    margin-left: 0px;
+   
 }
 
 #shalu3 p{
 
     font-size: 17px;
     line-height: 28px;
-    text-align: center;
-  
+   
+    text-align: justify;
+    margin-left: -10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -899,18 +906,19 @@ margin-left: 1000px;
 #shalu5 {
 
 
-    width: 400px;
+    width: 365px;
+    margin-top: 20px;
 
 
-    margin-left: 0px;
 }
 
 #shalu5 p{
 
     font-size: 17px;
     line-height: 28px;
-    text-align: center;
   
+    margin-left:- 36px;
+    
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -918,6 +926,7 @@ margin-left: 1000px;
 
     color: #007faa;
     text-decoration: none;
+    line-height: 28px;
 }
 
 #black{
@@ -926,7 +935,7 @@ margin-left: 1000px;
     #1e2124;
     width: 100%;
     height: 320px;
-    margin-top: 60px;
+    margin-top: 30px;
     padding:20px 0px;
  }
 
@@ -940,9 +949,9 @@ margin-left: 1000px;
  .head3 h2{
 
      color: white;
-     margin-top: 50px;
+     margin-top: 40px;
      font-size: 40px;
-     line-height: 28px;
+     line-height: 50px;
     
  }
 

@@ -71,7 +71,7 @@ cursor: pointer;
     text-align: center;
     color: white;
     margin-top: 200px;
-    font-size: 45px;
+    font-size: 44px;
     font-family: "poppins",sans-serif;
 }
 
@@ -92,6 +92,7 @@ h1{
 
 h2{
     text-align: center;
+    line-height: 45px;
 }
 
 p{
@@ -113,10 +114,12 @@ p{
 .p {
 
    margin: auto;
+   line-height: 30px;
    
     width: 40%;
   text-align: center;
-   font-size: 20px;
+   font-size: 18px;
+   font-family:Arial, Helvetica, sans-serif;
 }
 
 .head2 {
@@ -237,8 +240,12 @@ text-decoration: underline;
 
  #btn2 button{
 
-    padding: 10px 20px;
+    padding: 10px 25px;
     cursor: pointer;
+    color: #6b787f;
+    border: 1px solid #6b787f;
+    background-color: #f7f7f7;
+    border-radius: 4px;
  }
 
  #more img {
@@ -307,6 +314,7 @@ text-decoration: underline;
      color: white;
      margin-top: 50px;
      font-size: 40px;
+     font-family: Arial, Helvetica, sans-serif;
  }
 
 
@@ -324,6 +332,7 @@ text-decoration: underline;
     padding: 8px;
     margin-top: 15px;
     border-radius: 5px;
+    color: #1e2124;
     height: 50px;
     cursor: pointer;
     border: none;
@@ -352,7 +361,7 @@ text-decoration: underline;
 
 #marketing div {
 
-  border: 0.9px solid #c3c7c8;
+  /* border: 0.9px solid #c3c7c8; */
   padding:0px 60px;
 font-family: Arial, Helvetica, sans-serif;
   
@@ -390,8 +399,8 @@ h4{
       
     width: 30%;
   
-   line-height: 22px;
-    font-size: 16px;
+   line-height: 18px;
+   
     margin-left: 60px;
     margin-top: 50px;
 }
@@ -399,7 +408,8 @@ h4{
 .p3 p{
 
 text-align: justify;
-font-size: 18px;
+font-size: 15px;
+font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 #acre{
@@ -426,6 +436,8 @@ margin-left: 1000px;
 
     text-align: left;
     margin-left: 60px;
+    font-size: 12px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 #footer button{
@@ -441,4 +453,35 @@ margin-left: 1000px;
 
     margin-left: 60px;
     margin-top: 60px;
+}
+
+
+#one a{
+
+    color: #007faa;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two a{
+
+    color: #007faa;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#three a{
+
+    color: #007faa;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#learn {
+
+    margin-left: 30px;
 }

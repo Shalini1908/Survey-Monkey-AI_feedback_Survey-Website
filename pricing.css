@@ -24,6 +24,7 @@
    display: flex;
    margin-right: 30px;
   
+  
  
 }
 
@@ -62,6 +63,7 @@ cursor: pointer;
     border-radius: 5px;
     height: 35px;
     color: white;
+    cursor: pointer;
     width: 90px;
     border: 2px solid white;
     margin-top: 15px;
@@ -544,7 +546,7 @@ h4{
 
 #marketing div {
 
-    border: 1px solid #c3c7c8;
+    /* border: 1px solid #c3c7c8; */
     padding:0px 60px;
     height: 495x;
   
@@ -609,7 +611,7 @@ h4{
 
 #more_1 p{
 
-    line-height: 29px;
+    line-height: 32px;
     margin-left: 150px;
     font-size: 17px;
     color: #73747a;
@@ -619,7 +621,7 @@ h4{
 
 #more_1 h4{
 
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     margin-left: -80px;
 }
 
@@ -627,14 +629,14 @@ h4{
 
     width: 30%;
     height: 398px;
-    margin-left: -60px;
+    margin-left: -20px;
    
     
 }
 
 #more_2 p{
 
-    line-height: 20px;
+    line-height: 18px;
     font-size: 16px;
     color: #73747a;
     
@@ -642,7 +644,7 @@ h4{
 
 #more_2 h4{
 
-    margin-left: -90px;
+    margin-left: -100px;
     margin-top: 39px;
 }
 
@@ -685,6 +687,7 @@ margin-left: 1000px;
     text-align: left;
     margin-left: 60px;
     margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 

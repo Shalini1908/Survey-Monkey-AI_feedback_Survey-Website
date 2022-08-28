@@ -89,3 +89,203 @@ a{
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
 }
+
+
+
+@media all and (min-width:340px) and (max-width:649px) {
+
+
+
+
+    body {
+
+        background-color: #f7f8fa;
+    }
+    
+    h1 {
+        margin-left: 31px;
+        font-size: 18px;
+        margin-top: 30px;
+        font-weight: 1;
+        color: #333e48;
+        line-height: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    form {
+    
+        margin: auto;
+        width: 75%;
+        height: 280px;
+        margin-top: 10px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        padding-top: 20px;
+    }
+    
+    
+    #logo {
+    
+    
+        margin-left: 400px;
+    
+    }
+    
+    #logo img {
+    
+        margin-top: 100px;
+    margin-left: -348px;
+    }
+    
+    
+    input {
+    
+        margin-left: 40px;
+    
+    }
+    
+    
+    label {
+    
+        margin-left: 31px;
+        color: #353f43;
+        margin-top: 25px;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    #email {
+        width: 275px;
+        height: 40px;
+        margin-left: 32px;
+        margin-top: 10px;
+    }
+    
+    button {
+    
+        width: 282px;
+        height: 45px;
+        margin-left: 35px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        background-color: #00bf6f;
+        border: none;
+        font-size: 15px;
+        color: white;
+        font-weight: 700;
+    }
+    
+    a{
+    
+        color: #007faa;
+        text-decoration: none;
+        margin-left: 28px;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        cursor: pointer;
+    }
+    
+    
+
+}
+
+@media all and (min-width:650px) and (max-width:1150px) {
+
+
+
+
+    body {
+
+        background-color: #f7f8fa;
+    }
+    
+    h1 {
+        margin-left: 45px;
+        font-size: 22px;
+        margin-top: 30px;
+        font-weight: 1;
+        color: #333e48;
+        line-height: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    form {
+    
+        margin: auto;
+        width: 52%;
+        height: 300px;
+        margin-top: 10px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        padding-top: 20px;
+    }
+    
+    
+    #logo {
+    
+    
+        margin-left: 400px;
+    
+    }
+    
+    #logo img {
+    
+        margin-top: 100px;
+    margin-left: -240px;
+    }
+    
+    
+    input {
+    
+        margin-left: 40px;
+    
+    }
+    
+    
+    label {
+    
+        margin-left: 50px;
+        color: #353f43;
+        margin-top: 25px;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    #email {
+    
+        width: 253px;
+        height: 40px;
+        margin-left: 45px;
+        margin-top: 10px;
+    
+    }
+    
+    button {
+    
+        width: 260px;
+        height: 50px;
+        margin-left: 45px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        background-color: #00bf6f;
+        border: none;
+        font-size: 15px;
+        color: white;
+        font-weight: 700;
+    }
+    
+    a{
+    
+        color: #007faa;
+        text-decoration: none;
+        margin-left: 45px;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        cursor: pointer;
+    }
+    
+    
+
+}
