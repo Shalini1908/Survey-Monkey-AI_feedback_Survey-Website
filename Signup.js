@@ -12,6 +12,21 @@ let useremail = document.querySelector("#email").value;
  
 
 
+let x = localStorage.getItem("email") ; 
+
+
+
+if(useremail == x){
+
+    alert("Sign Up successful")
+}else{
+
+    alert("Sign Up failed")
+}
+
+
 
 
 }
+
+
